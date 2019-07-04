@@ -1,9 +1,15 @@
+html {
+    font-family: arial;
+}
+
 .topBanner {
-    background-color: black;
+    background-color: #37393A;
     color: white;
     text-align: center;
     margin-bottom: 0px;
-    font-family: Arial
+    font-family: Arial;
+    padding: 10px;
+    margin-top: 0px;
 }
 
 nav {
@@ -13,18 +19,59 @@ nav {
 }
 
 ul {
-    margin-top: 6px;
+    margin-top: 10px;
 }
 
 li {
     list-style: none;
     display: inline;
-    background-color: grey;
-    font-family: sans-serif;
-    padding: 5px;
+    background-color: #CFD5D4;
+    font-family: arial;
+    padding: 8px 5px;
 }
 
 a.menu {
     color: white;
     text-decoration: none;
+    font-weight: 700;
+    
+}
+
+.intro p {
+    background-color: #06E1AB;
+    padding-left: 10px;
+    margin-top: 5px 30px;
+    margin-bottom: 5px;
+    margin-left: 110px;
+    margin-right: 105px;
+    padding: 10px 10px;
+}
+
+u {
+    text-decoration-color: yellow;
+}
+
+section.gallery {
+    margin-right: auto;
+    margin-left: 110px;
+    margin-bottom: 15px;
+}
+
+div.pictures {
+    display: inline;
+}
+
+.buttons p{
+    display: inline-block;
+    background-color: #EEB936;
+    text-align: center;
+    margin: 2px 0;
+    padding: 10px 156.5px;
+}
+
+footer p{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
 }
