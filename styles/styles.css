@@ -37,7 +37,7 @@ a.menu {
     
 }
 
-.intro p {
+.intro h2 {
     background-color: #06E1AB;
     padding-left: 10px;
     margin-top: 5px 30px;
@@ -45,6 +45,7 @@ a.menu {
     margin-left: 110px;
     margin-right: 105px;
     padding: 10px 10px;
+    font-weight: 300;
 }
 
 u {
