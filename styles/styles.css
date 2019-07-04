@@ -1,0 +1,30 @@
+.topBanner {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: Arial
+}
+
+nav {
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+
+ul {
+    margin-top: 6px;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    background-color: grey;
+    font-family: sans-serif;
+    padding: 5px;
+}
+
+a.menu {
+    color: white;
+    text-decoration: none;
+}
